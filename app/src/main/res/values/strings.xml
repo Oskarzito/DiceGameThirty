@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DiceGameThirty</string>
+    <string name="throw_button_text">Throw!</string>
+    <string name="rule_label">Rule:</string>
+    <string name="rule_button_text">Choose rule</string>
+    <string name="result_button_text">Result!</string>
+    <string name="calculate_result_text">Done\nthrowing!</string>
+    <string name="add_result_text">Add dice\nvalue</string>
+    <string name="cancel_calculation_text">Finish\nround!</string>
+    <string name="round_reminder_text"></string>
+    <string name="round_heading">ROUND</string>
+    <string name="result_heading">RESULT</string>
+    <string name="new_game_button_text">New Game!</string>
+    <string name="game_over">No more rounds\nto play!</string>
+    <string name="score_heading">SCORE!</string>
+
+    <string name="button_low">Low</string>
+    <string name="button_4">4</string>
+    <string name="button_5">5</string>
+    <string name="button_6">6</string>
+    <string name="button_7">7</string>
+    <string name="button_8">8</string>
+    <string name="button_9">9</string>
+    <string name="button_10">10</string>
+    <string name="button_11">11</string>
+    <string name="button_12">12</string>
+    <string name="throws_left_label">Throws left: </string>
+    <string name="throws_left_counter">0</string>
+    <string name="throws_left_3">3</string>
+    <string name="throws_left_2">2</string>
+    <string name="throws_left_1">1</string>
+    <string name="throws_left_0">0</string>
+</resources>
